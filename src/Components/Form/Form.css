@@ -1,0 +1,23 @@
+form {
+    margin: 20px;
+}
+
+label {
+    font-size: large;
+    margin-bottom: 14px;
+}
+
+input {
+    display: block;
+    margin-bottom: 6px;
+}
+
+.btn {
+    font-size: large;
+    padding: 6px 40px 6px 40px;
+    border: none;
+    border-radius: 6px;
+    background-color: chocolate;
+    color: whitesmoke;
+    cursor: pointer;
+}

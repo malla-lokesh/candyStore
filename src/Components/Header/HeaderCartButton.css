@@ -1,0 +1,9 @@
+.cartButton {
+    background-color: crimson;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 25px 10px 25px;
+    border-radius: 6px;
+    font-size: large;
+}
